@@ -1,11 +1,10 @@
+import Hero from "./sections/Hero"
 function App() {
 
   return (
-    <main>
-      <div>
-        <h1 className="underline">Hello World</h1>
-      </div>
-    </main>
+    <>
+      <Hero/>
+    </>
   )
 }
 
