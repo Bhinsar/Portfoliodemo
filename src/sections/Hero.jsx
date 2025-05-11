@@ -26,6 +26,7 @@ function Hero() {
               <h1>Into Real Project</h1>
               <h1>That Deliver Results</h1>
             </div>
+            <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">Hi, I'm Bhinsar Jagdish a software engineer with a passion for building scalable and efficient systems.</p>
           </div>
         </header>
         {/* right : hero section */}
