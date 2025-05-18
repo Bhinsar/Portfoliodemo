@@ -1,6 +1,8 @@
 import Hero from "./sections/Hero"
 import ShowcaseSection from "./sections/ShowcaseSection"
 import Navbar from "./Components/Navbar/navbar"
+import LogoShowcase from "./sections/LogoShowcase"
+
 function App() {
 
   return (
@@ -8,7 +10,9 @@ function App() {
       <Navbar/>
       <Hero/>
       <ShowcaseSection/>
+      <LogoShowcase/>
     </>
+
   )
 }
 
