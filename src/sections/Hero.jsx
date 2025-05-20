@@ -1,4 +1,4 @@
-import Button from "../Components/Button";
+import Button from "../Components/Button/Button";
 import HeroExperince from "../Components/HeroModels/HeroExperince";
 import { words } from "../Constants";
 import {useGSAP} from '@gsap/react'
